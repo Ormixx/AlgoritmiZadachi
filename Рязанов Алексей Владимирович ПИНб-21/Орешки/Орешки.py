@@ -1,3 +1,4 @@
+#https://acmp.ru/index.asp?main=task&id_task=766
 with open('INPUT.TXT', 'r') as f:
     line = f.readline().strip()
     N, M, K = map(int, line.split())

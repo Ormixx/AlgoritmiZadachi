@@ -1,3 +1,4 @@
+#https://acmp.ru/index.asp?main=task&id_task=21
 with open('INPUT.TXT', 'r') as file:
     salaries = list(map(int, file.read().strip().split()))
      

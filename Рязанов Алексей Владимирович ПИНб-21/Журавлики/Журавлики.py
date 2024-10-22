@@ -1,3 +1,4 @@
+#https://acmp.ru/index.asp?main=task&id_task=92
 with open('INPUT.TXT') as f:
     S = int(f.readline().strip())
      

@@ -1,3 +1,4 @@
+#https://acmp.ru/index.asp?main=task&id_task=4
 K = int(input().strip())
 if 0 <= K <= 9:
     second_digit = 9
